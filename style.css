@@ -1,0 +1,15 @@
+body{
+    background-color: #e0f1e7;
+}
+
+.contact-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+    background: #ffffff;
+    width: 500px;
+    height: 420px;
+
+}
